@@ -36,7 +36,7 @@ The age range of those with a high attrition rate is 26 to 35. Employees in this
 Since 26 to 35 is when promotions are most likely to occur, this is also the time when salaries are most likely to experience significant and substantial fluctuations.
 
 ## Credits:
-maithithuyhau
-hoai-vii
-TranHongKim9
-GNHB
+- maithithuyhau
+- hoai-vii
+- TranHongKim9
+- GNHB
