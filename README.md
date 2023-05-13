@@ -35,3 +35,8 @@ The Human Resources department has the lowest number of employees in the company
 The age range of those with a high attrition rate is 26 to 35. Employees in this stage have accumulated sufficient corporate experience, are aware of whether they are qualified for the current position and interested in it or not, and have made a number of accomplishments there. Employees frequently choose to continue working for the company after this age. 
 Since 26 to 35 is when promotions are most likely to occur, this is also the time when salaries are most likely to experience significant and substantial fluctuations.
 
+## Credits:
+maithithuyhau
+hoai-vii
+TranHongKim9
+GNHB
