@@ -6,15 +6,15 @@ The HR departments suffer the most under this situation. They must manage a larg
 
 ## Basic Process of Data Analytics
 Below are the common steps involved in the data analytics method:
-Step 1: Determine the criteria for grouping the data
-Step 2: Collecting the data
-Step 3: Organizing the data
-Step 4: Cleaning the data
+- Step 1: Determine the criteria for grouping the data
+- Step 2: Collecting the data
+- Step 3: Organizing the data
+- Step 4: Cleaning the data
 ## Types of data analysis
-Descriptive Analytics 
-Diagnostic Analytics 
-Predictive Analytics 
-Prescriptive Analytics
+- Descriptive Analytics 
+- Diagnostic Analytics 
+- Predictive Analytics 
+- Prescriptive Analytics
 ## Visualization and Presentation
 ### Dashboard HR Management
 
